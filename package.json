@@ -1,0 +1,22 @@
+{
+  "name": "bj_timecounter",
+  "version": "1.0.2",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bushra Jan",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "date-fns": "^3.6.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8"
+  }
+}
